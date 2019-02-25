@@ -1,2 +1,2 @@
-insert into hr.COUNTRIES columns(COUNTRY_ID,COUNTRY_NAME,REGION_ID) values('NP','NEPAL',3);
+insert into hr.REGIONS columns(REGION_ID,REGION_NAME) values(3,'ASIA');
 commit;

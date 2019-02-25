@@ -1,2 +1,2 @@
-delete from hr.COUNTRIES where COUNTRY_ID ='NP';
+delete from hr.REGIONS where REGION_ID =3;
 commit;
